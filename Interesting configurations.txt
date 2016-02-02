@@ -1,0 +1,7 @@
+dims=6 size=5,5,5,5,5,5 wrap birth=2,10,20,30,40,50,60,70,80,81,90,100 survive=1,11,21,31,41,51,61,71,81,91,101 file="C:\temp\a folder\blah.txt" render=explode pixelShape=cube seedShape=lines seedValue=4
+
+
+
+dims=5 size=10,10,10,10,10 wrap birth=1,5,2,6,3,7,4,8,5 survive=1,3 file="C:\temp\a folder\blah.txt" render=explode pixelShape=cube seedShape=lines seedValue=4
+
+dims=5 size=7,7,7,7,7 wrap birth=9,9,8,7,6,5,4,3,2,1,8,6,7,7,9,5,3,7,5 survive=1,2,3,4,6,5,9,8 file="C:\temp\a folder\blah.txt" render=explode pixelShape=cube seedShape=lines seedValue=4

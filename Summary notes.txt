@@ -1,0 +1,17 @@
+* Intro & history
+
+* What candy is capabilities & technology
+
+* Some example screenshots demoing various features
+
+* Videos of my findings
+
+* Videos of David's findings
+
+* Describe search algorithm
+
+* Search algorithm findings
+
+* Some graph summarizing interestingness across all dimensions for each seed type
+
+* Conclusion

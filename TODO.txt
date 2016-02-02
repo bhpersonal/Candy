@@ -1,0 +1,25 @@
+DONE - Implement command line options
+DONE - Modify rules to accept specific values rather than range
+DONE - Output summary to file specified
+- Implement various seed options
+- Implement various 4+D rendering methods
+- Implement pixel shapes for fun
+
+- Perform interesting analysis by scanning rulesets
+- Create some pretty graphs summarizing analysis
+- Publish info on blog
+
+
+
+tonight:
+
+DONE - get it working again
+DONE - basic parameters working
+DONE - file output
+DONE - write skeleton of summary
+
+
+
+
+
+
